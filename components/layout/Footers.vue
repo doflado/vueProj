@@ -19,12 +19,12 @@
                 </div>
             </div>
             <div class="menuContainer fc-darkBlue fs-bold">
-                <div class="btnPrimary" style="background-color: transparent;">Products</div>
-                <div class="btnPrimary" style="background-color: transparent;">Discover</div>
-                <div class="btnPrimary" style="background-color: transparent;">Build</div>
-                <div class="btnPrimary" style="background-color: transparent;">Community</div>
-                <div class="btnPrimary" style="background-color: transparent;">Resource</div>
-                <div class="btnPrimary" style="background-color: transparent;">Impact Projects</div>
+                <div class="btnPrimary" style="background-color: transparent; text-align: left">Products <p>HUMAN App</p> <p>Proof of HUMANity</p> <p>IMOO</p></div>
+                <div class="btnPrimary" style="background-color: transparent;">Discover <p>Token</p><p>Routing layer</p><p>Team</p><p>Careers</p></div>
+                <div class="btnPrimary" style="background-color: transparent;">Build<p>Developers</p><p>Technology</p><p>DevBounty Program</p><p>BlugBounty Program</p><p>Github</p><p>Giants Program</p></div>
+                <div class="btnPrimary" style="background-color: transparent;">Community<p>Grants Program</p> <p>Ellit Ops Program</p><p>Events</p></div>
+                <div class="btnPrimary" style="background-color: transparent;">Resource <p>Documents Hub</p><p>Lite Paper</p><p>Technical WhitePaper</p><p>System Status</p><p>In The News</p><p>One Pagers Archive</p><p>Brand Assists</p></div>
+                <div class="btnPrimary" style="background-color: transparent;">Impact Projects <p>Blog</p><p>Explorer</p></div>
             </div>
             <div class="outSenderContainer">
                 <div class="header">Third-party communites</div>
@@ -60,8 +60,7 @@
     align-items: center;
 }
 .menuContainer>.btnPrimary{
-    cursor: pointer;
-    margin-right: 7%;
+    margin-right: 5%;
 }
 .tip>.btnPrimary{
     cursor: pointer;
